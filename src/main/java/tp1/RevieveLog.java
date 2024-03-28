@@ -1,3 +1,4 @@
+package tp1;
 import com.rabbitmq.client.*;
 
 public class RevieveLog {
